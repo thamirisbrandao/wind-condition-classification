@@ -1,6 +1,4 @@
-# wind-condition-classification
-
-## Overview
+# Wind Condition Classification
 
 An index was developed to assess the likelihood of favorable or unfavorable conditions for strong winds in a region. This work has been conducted over the past 16 months (starting August 1st, 2024) under a FAPESP TT-5 Fellowship.
 
@@ -31,7 +29,7 @@ Key Contributions:
 
 ## Repository Disclaimer
 
-This repository presents my professional experience from 1st, 2024, to December 31st, 2025.
+This repository presents my professional experience from August 1st, 2024, to December 31st, 2025.
 
 No proprietary source code, confidential data, credentials, internal
 infrastructure, or company-owned assets are included.
